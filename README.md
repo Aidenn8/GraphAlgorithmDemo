@@ -1,2 +1,2 @@
 # GraphAlgorithmDemo
-Representataion of BFS DFS and Dijkstra's graph traversal algorithms
+Representation of BFS DFS and Dijkstra's graph traversal algorithms
